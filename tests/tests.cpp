@@ -1,11 +1,11 @@
 // Copyright 2021 Your Name <your_email>
 
-#include <stdexcept>
-
 #include <gtest/gtest.h>
 
-#include <example.hpp>
+#include <hash.h>
+#include <stdexcept>
 
 TEST(Example, EmptyTest) {
-    EXPECT_THROW(example(), std::runtime_error);
+  bool val = true;
+  EXPECT_EQ(val, true);
 }
