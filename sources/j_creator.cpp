@@ -1,4 +1,5 @@
-// Created by Macbook on 10.04.2022.
+// Copyright 2022 siruser agamesok@gmail.com
+
 #include <j_creator.h>
 
 void json_creator::add_item(const json_data& val)  {

@@ -1,4 +1,4 @@
-// Copyright 2021 Your Name <your_email>
+// Copyright 2022 siruser agamesok@gmail.com
 
 #include <hash.h>
 
@@ -25,7 +25,8 @@ void get_hash(json_creator& hashes_json){
   }
 }
 
-void hash_calc(const std::string& path, size_t num_of_threads, size_t rotation){
+void hash_calc(const std::string& path, size_t num_of_threads, size_t rotation)
+{
   std::srand(time(nullptr));
   set_logs(rotation);
   logs::add_common_attributes();

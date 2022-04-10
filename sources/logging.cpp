@@ -1,5 +1,5 @@
-// Created by Macbook on 10.04.2022.
-//
+// Copyright 2022 siruser agamesok@gmail.com
+
 #include <logging.h>
 
 void set_logs(size_t val){

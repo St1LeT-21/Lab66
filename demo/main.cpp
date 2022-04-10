@@ -1,3 +1,4 @@
+// Copyright 2022 siruser agamesok@gmail.com
 
 #include <hash.h>
 

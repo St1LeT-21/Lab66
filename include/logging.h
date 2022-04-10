@@ -1,5 +1,4 @@
-// Created by Macbook on 10.04.2022.
-//
+// Copyright 2022 siruser agamesok@gmail.com
 
 #ifndef TEMPLATE_LOGGING_H
 #define TEMPLATE_LOGGING_H
