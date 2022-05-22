@@ -1,5 +1,6 @@
 // Copyright 2022 Your Name <your_email>
 
+
 #ifndef TEMPLATE_HASH_H
 #define TEMPLATE_HASH_H
 #include <atomic>

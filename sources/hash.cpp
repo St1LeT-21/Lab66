@@ -2,6 +2,7 @@
 
 #include <hash.h>
 
+
 std::atomic<bool> in_process = true;
 
 void stop(const int S){

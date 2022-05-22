@@ -2,6 +2,7 @@
 
 #include <j_creator.h>
 
+
 void json_creator::add_item(const json_data& val)  {
   std::lock_guard<std::mutex> lg(mut);
   json json_item;
