@@ -1,4 +1,4 @@
-// Copyright 2022 siruser agamesok@gmail.com
+// Copyright 2022 Your Name <your_email>
 
 #ifndef TEMPLATE_HASH_H
 #define TEMPLATE_HASH_H

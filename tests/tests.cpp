@@ -1,4 +1,4 @@
-// Copyright 2022 siruser agamesok@gmail.com
+// Copyright 2022 Your Name <your_email>
 
 #include <gtest/gtest.h>
 
